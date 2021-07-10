@@ -1,9 +1,9 @@
 import React from "react";
-import dtmPortfolio from "./dtmPortfolio";
+import DtmPortfolio from "./DtmPortfolio";
 
 function App() {
   return (
-    <dtmPortfolio />
+    <DtmPortfolio />
   )
 }
 

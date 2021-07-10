@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function dtmPortfolio() {
+export default function DtmPortfolio() {
     return (
         <div>
-            Hello World
+            Dana Merrill's Portfolio
         </div>
     )
 }
