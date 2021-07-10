@@ -1,7 +1,10 @@
-
+import React from "react";
+import dtmPortfolio from "./dtmPortfolio";
 
 function App() {
-  return null
+  return (
+    <dtmPortfolio />
+  )
 }
 
 export default App;
