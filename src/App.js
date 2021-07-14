@@ -1,8 +1,9 @@
-import React from 'react';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import Card from './components/Cardpyp';
-
+import React from "react";
+import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import Card1 from "./components/Cardpyp";
+import Card2 from "./components/Cardpw";
+import Cards from "./components/Cards";
 
 // In our main App component, we are rendering only single instances of Header and Navbar and several instances of Card
 function App() {
@@ -10,9 +11,11 @@ function App() {
     <div>
       <Header />
       <Navbar />
-      <Card />
-      <Card />
-      <Card />
+      <Card1 />
+      <Card2 />
+      <img alt="Missing graphic" src="images/" />
+      <Cards />
+      {/* <Card /> */}
     </div>
   );
 }
