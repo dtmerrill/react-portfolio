@@ -17,3 +17,29 @@
   color: white;
   font-size: 2rem;
 }
+
+ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+
+.footer {
+  background: #2e8d52;
+  height: 100px;
+}
+
+.footer h1 {
+  margin: 0;
+  padding-top: 15px;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
+.footer h3 {
+  margin: 0;
+  padding-top: 15px;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+}
